@@ -1,0 +1,23 @@
+{
+  "name": "trayce",
+  "version": "1.0.0",
+  "description": "a CLI tool made to simplify the web developmet process",
+  "main": "index.js",
+  "scripts": {
+    "test": "trayce: "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FugaX/Trayce-CLI.git"
+  },
+  "keywords": [
+    "trayce",
+    "cli"
+  ],
+  "author": "Akash Basu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FugaX/Trayce-CLI/issues"
+  },
+  "homepage": "https://github.com/FugaX/Trayce-CLI#readme"
+}
